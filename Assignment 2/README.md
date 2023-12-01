@@ -1,4 +1,4 @@
-# Resampling with Original Image Overlay and Aliasing
+# Object Detection Using Colors
 
 ## Dataset
 
